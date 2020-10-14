@@ -1,6 +1,6 @@
 {
   "name": "protractor-browser-logs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides tools for asserting browser logs inside protractor tests",
   "main": "dist/index.js",
   "files": [
@@ -27,7 +27,7 @@
   "engines": {
     "node": ">=0.8.0"
   },
-  "license": "",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wix/protractor-browser-logs/issues"
   },
